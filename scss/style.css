@@ -359,7 +359,7 @@ a.btn:hover {
 .platform__text a.btn-video:before {
   content: "";
   position: absolute;
-  background: url("../../img/icon_for_video.png") center/cover no-repeat;
+  background: url(../../img/icon_for_video.png) center/cover no-repeat;
   width: 20px;
   height: 25px;
   transform: translate(-35px, 2px);
@@ -544,7 +544,7 @@ a.btn:hover {
 .footer__contacts .contact__email:before {
   content: "";
   position: absolute;
-  background: url("../../img/icon__mail.png") center no-repeat;
+  background: url(../../img/icon__mail.png) center no-repeat;
   width: 15px;
   height: 12px;
   transform: translate(-20px, 3px);
@@ -555,7 +555,7 @@ a.btn:hover {
 .footer__contacts .contact__phone:before {
   content: "";
   position: absolute;
-  background: url("../../img/icon__phone.png") center no-repeat;
+  background: url(../../img/icon__phone.png) center no-repeat;
   width: 15px;
   height: 15px;
   transform: translate(-20px, 3px);
@@ -566,7 +566,7 @@ a.btn:hover {
 .footer__contacts .contact__street:before {
   content: "";
   position: absolute;
-  background: url("../../img/icon__location.png") center no-repeat;
+  background: url(../../img/icon__location.png) center no-repeat;
   width: 15px;
   height: 18px;
   transform: translate(-20px, 0px);
@@ -624,7 +624,7 @@ a.btn:hover {
 }
 .footer__about .nice-select:before {
   content: "";
-  background: url("../../img/lang__icon.svg") center no-repeat;
+  background: url(../../img/lang__icon.svg) center no-repeat;
   width: 13px;
   height: 13px;
   position: absolute;
